@@ -3,3 +3,6 @@ Allow:
 
 Sitemap: https://pc-health-check-windows-11.herokuapp.com/host-https-ccm.net/sitemap/download/
 Sitemap: https://pc-health-check-windows-11.herokuapp.com/sitemap.xml
+Sitemap: https://pc-health-check-windows-11.herokuapp.com/host-https-itechhacks.com/sitemap_index.xml
+Sitemap: https://pc-health-check-windows-11.herokuapp.com/host-https-ccm.net/sitemap/download/
+Sitemap: https://pc-health-check-windows-11.herokuapp.com/host-https-www.mpnrc.org/post-sitemap.xml
